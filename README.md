@@ -7,4 +7,4 @@
   <h6 align="middle">
 
 
-<sub>©2024 XERATAUS</sub>
+<sub>©2025 XERATAUS</sub>
